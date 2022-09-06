@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-advice-app/static/css/main.4375a758.css",
+    "main.js": "/react-advice-app/static/js/main.4e4c5eab.js",
+    "static/media/motivation.jpg": "/react-advice-app/static/media/motivation.88ea8c39f90bbbae2b76.jpg",
+    "index.html": "/react-advice-app/index.html",
+    "main.4375a758.css.map": "/react-advice-app/static/css/main.4375a758.css.map",
+    "main.4e4c5eab.js.map": "/react-advice-app/static/js/main.4e4c5eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4375a758.css",
+    "static/js/main.4e4c5eab.js"
+  ]
+}
